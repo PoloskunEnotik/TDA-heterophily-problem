@@ -24,6 +24,10 @@
    ```bash
    git clone https://github.com/PoloskunEnotik/TDA-heterophily-problem.git
    cd TDA-heterophily-problem
+## 📖 Исходные статьи
+1. Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs (Cristian Bodnar et al.)
+2. Sheaf Neural Networks with Connection Laplacians (Federico Barbero et al.)
+3. Bundle Neural Networks for message diffusion on graphs (Jacob Bamberger et al.)
 ##  🤡 Авторы
 1. Попов Анатолий (тг @capibaraAttila): Реализация моделей с Connection Laplasian и замены на векторные расслоения, ресерч персистентных гомологий и спектральной регуляризации, реализация оптимизации гиперпараметров с Optuna.
 2. Лаптев Артём (тг @tema_laptev): Реализация базовых моделей (MLP, GCN, GAT), реализация базовой модели NSD, эксперименты на датасетах.
