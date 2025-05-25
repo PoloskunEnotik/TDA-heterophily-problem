@@ -22,7 +22,7 @@
 ## 📦 Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/neural-sheaf-diffusion.git
+   git clone https://github.com/PoloskunEnotik/TDA-heterophily-problem.git
    cd neural-sheaf-diffusion
 ##  🤡 Авторы
 1. Попов Анатолий
